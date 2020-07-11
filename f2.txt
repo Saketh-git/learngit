@@ -2,3 +2,4 @@ new file created.
 feat2 repo
 check diff
 check pull --rebase
+edit on remote
