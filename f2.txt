@@ -1,2 +1,2 @@
 new file created.
-file can be appended in index area.
+feat2 repo
